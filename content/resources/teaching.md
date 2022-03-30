@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7ec5b24d-b985-f976-9714-7de2a7f9d50b
 resourcetype: Image
 title: teaching.jpg
 uid: 4fe3b774-0b2f-3a8d-50b2-34757ea4ae86
